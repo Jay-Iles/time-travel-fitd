@@ -13,3 +13,6 @@ Whether it’s selling high-powered plasma rifles to a 17th century monarch or l
 
 # Adjusters
 Changing the flow of history in small ways can pay big dividends. Adjusters take contracts to produce a specific outcome in a specific era and try to make the smallest possible changes to past to produce it.
+
+# Eliminators 
+There are some individuals who really do change the flow of history, and there are some other individuals who will arrange from them to meet an "untimely" end. Make it look like, pnemonia, pin it on some poor guy named Harvey, do your job clean and quiet and anyone who realizes the truth will be dismissed as a conspiracy theorist. 
