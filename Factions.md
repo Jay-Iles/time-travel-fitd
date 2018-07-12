@@ -6,3 +6,17 @@
 
 ## List your factions here!
 
+# Temporal Preservation Agency
+Face: Director Chatterjee
+Goal: Prevent tampering with history, uphold the Temporal Preservation Act of 4388
+Reach: Far Future, Future
+
+# Acolytes of the Eternal Circuit
+Face: High Priest Wistful Interrogation 
+Goal: Make the end of time identical to the beginning, create a "big crunch" at the end of history
+Reach: Far Future, Far Past
+
+# Transtemporal Prosperity Chamber
+Face: Board President Weston
+Goal: Manipulate history to make a killing (often literally) on the 24th Century Stock Market
+Reach: Modern Day, Future
