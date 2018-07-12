@@ -11,4 +11,6 @@ To reduce *Frag*, you need to find some way to *reconcile* it. This has a few fo
 * Investing in better and better time machines that take care of the paradox for you.
 
 
+# Discussion
 
+Some of the things done to push yourself won't neccessarily involve time travel, right? Maybe Frag is a combination of the actual distruption wreaked on your personal timeline and the mental strain involved with being a person who routinely jumps around in time, which the human brain is *definately* not designed to do. I think the vices system from the original Blades adds a lot to character's individual characterization so it'd be nice to still have that element of a personal and unique thing players do to reconcile Frag. Thoughts? --Sappho
