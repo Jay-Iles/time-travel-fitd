@@ -95,9 +95,38 @@ Goal: Create a safe place for Time Ghosts and other temporal anomalies, stay hid
 
 Reach: Future, Present
 
+# Historians
+Face: Chief Historian Meabh
+
+Goal: Observe all events so that they are known to have happened
+
+Reach: Far Future, Future, Present, Past, Distant Past
+
+# Surfer's Lane
+Face: St Absolute
+
+Goal: Swindle tourists out of their money helping them "Surf the Time Stream"
+
+Reach: Future, Present, Past
+
+# University of The Present
+Face: President Canticle Button
+
+Goal: Education of the populace, enemy of time stream changes. Rival to The University of the Past and Future.
+
+Reach: Present
+
+# University of the Past and Future
+Face: Vice-Provost Whit Dorrit-Page
+
+Goal: Actively subvert the goals of The University of the Present 
+
+Reach: Future, Past
+
 # The Union
 Face: Union President Steven Once
 
 Goal: Fix broken time machines, currently (and possibly have always been) on strike
 
 Reach: Far Future, Future, Present, Past, Distant Past
+
