@@ -8,3 +8,16 @@ Years of pouring over historical texts alone and reenacting famous moments with 
 
 # Hopper
 There's very few problems that can't be solved with a quick dip into the timestream. Locked door? Wasn't there 300 years ago. Staring down a hired killer? Take a quick trip to their childhood and convince them to take up painting instead. Sure, it can have unintended consequences, but it's just little changes- nobody will notice. Be careful about how much you jump around, though-- a misstep could get you stuck in the paleolithic, or worse: nowhen at all.
+
+# Deviser
+Time travel is a tricky concept to conceptualize into a science but you're pretty sure you've got it down. You know the principles of time travel and how to translate it from theory to reality. Basically, you maintain time travel machines and make sure everyone's cobbled-together future tech works no matter the time period. You have a knack for cannibalizing any tech to keep your devises working wherever you are because someone has to make sure everyone can actually travel.
+
+# Wound
+Anyone who partakes in time travel is daring at heart, flouting the normal laws of physics to traverse all of time and space. But sometimes, one just gets too close to the sun. If you take on too much Paradox, you have the option to not succumb and instead remain in existence. You become a walking wound in the timeline, a split on the skin of reality. This allows you access to powers beyond what a normal time traveller possess but beware: the more you flout reality, the more your true nature creeps to the surface.
+
+# Primal
+The simpler, the better. You're able to find useful tools in any situation, no matter how basic.
+
+# TIME GHOST
+Advanced playbook: taken after you take too many paradoxes.
+You still look normal but you feel off, like you shouldn't still exist in the space people see you in.
