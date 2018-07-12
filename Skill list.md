@@ -1,5 +1,3 @@
-## Skill list:
-
 ### Insight
 A comprehensive knowledge of the timestream, forward and back.
 *Resist with Insight* by ‘remembering’ useful information just in time.
