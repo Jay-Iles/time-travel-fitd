@@ -18,4 +18,4 @@ Changing the flow of history in small ways can pay big dividends. Adjusters take
 To a criminal on the run, history is full of places to hide. To an enterprising crew of bounty hunters, it's full of oppurtunites to hunt them down and get justice (and get paid). 
 
 # Eliminators 
-There are some individuals who really do change the flow of history, and there are some other individuals who will arrange from them to meet an "untimely" end. Make it look like, pnemonia, pin it on some poor guy named Harvey, do your job clean and quiet and anyone who realizes the truth will be dismissed as a conspiracy theorist. 
+There are some individuals who really do change the flow of history, and there are some other individuals who will arrange for them to meet an "untimely" end. Make it look like pnemonia, pin it on some poor guy named Harvey, do your job clean and quiet and anyone who realizes the truth will be dismissed as a conspiracy theorist. 
