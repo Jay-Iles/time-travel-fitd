@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Altered Mechanics.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553081378.96949697</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>Crew Types.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553080952.12253404</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553080927.29547501</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Skill list.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553080927.29547596</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Altered Mechanics.md</string>
+		</array>
+		<array>
+			<string>Crew Types.md</string>
+		</array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>Skill list.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
