@@ -130,3 +130,9 @@ Goal: Fix broken time machines, currently (and possibly have always been) on str
 
 Reach: Far Future, Future, Present, Past, Distant Past
 
+# Falling Works Mining Co.
+Face: Falling Twice
+
+Goal: Mine pieces of unused time for future sale, make a profit
+
+Reach: Present, Past, Distant Past
