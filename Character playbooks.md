@@ -12,3 +12,11 @@ Time travel is a tricky concept to conceptualize into a science but you're prett
 
 # Wound
 Anyone who partakes in time travel is daring at heart, flouting the normal laws of physics to traverse all of time and space. But sometimes, one just gets too close to the sun. If you take on too much Paradox, you have the option to not succumb and instead remain in existence. You become a walking wound in the timeline, a split on the skin of reality. This allows you access to powers beyond what a normal time traveller possess but beware: the more you flout reality, the more your true nature creeps to the surface.
+
+# Primal
+The simpler, the better. You're able to find useful tools in any situation, no matter how basic.
+
+# TIME GHOST
+Advanced playbook: taken after you take too many paradoxes.
+You still look normal but you feel off, like you shouldn't still exist in the space people see you in.
+
