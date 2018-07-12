@@ -94,3 +94,10 @@ Face: Practice Handhold
 Goal: Create a safe place for Time Ghosts and other temporal anomalies, stay hidden
 
 Reach: Future, Present
+
+# The Union
+Face: Union President Steven Once
+
+Goal: Fix broken time machines, currently (and possibly have always been) on strike
+
+Reach: Far Future, Future, Present, Past, Distant Past
