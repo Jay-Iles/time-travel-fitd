@@ -37,22 +37,30 @@ Reach: Modern Day, Past (Do not actually travel through time but pass messages b
 
 # Prophecy Inc.
 Face: Ariel Walker, CEO
+
 Goal: Sell peoples' futures as predictions (with disclaimers of 70% accuracy) and privatize telling the future
+
 Reach: Modern Day, Future
 
 # The Archivist Guild
 Face: Director Klara Fowler
+
 Goal: Amass the largest collection of time-displaced artifacts in the known timestream and chart the history of time travel
+
 Reach: Past, Modern Day
 
 # Bureau of Remonstration
 Face: Violet Spring
+
 Goal: To eliminate rivals in the "time travel assassination" business
+
 Reach: Past, Modern Day, Future
 
 # The Mapmakers
 Face: Brother Novum
+
 Goal: To create a singular timeline by collapsing all other parallel universes into one
+
 Reach: Far Past, Past, Future, Far Future
 
 # Society for the Enlightenment of Past Humans (SEPH)
@@ -82,3 +90,31 @@ Face: Practice Handhold
 Goal: Create a safe place for Time Ghosts and other temporal anomalies, stay hidden
 
 Reach: Future, Present
+
+# Historians
+Face: Chief Historian Meabh
+
+Goal: Observe all events so that they are known to have happened
+
+Reach: Far Future, Future, Present, Past, Distant Past
+
+# Surfer's Lane
+Face: St Absolute
+
+Goal: Swindle tourists out of their money helping them "Surf the Time Stream"
+
+Reach: Future, Present, Past
+
+# University of The Present
+Face: President Canticle Button
+
+Goal: Education of the populace, enemy of time stream changes. Rival to The University of the Past and Future.
+
+Reach: Present
+
+# University of the Past and Future
+Face: Vice-Provost Whit Dorrit-Page
+
+Goal: Actively subvert the goals of The University of the Present 
+
+Reach: Future, Past
