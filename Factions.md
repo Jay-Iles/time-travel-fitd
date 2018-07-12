@@ -27,6 +27,14 @@ Goal: Manipulate history to make a killing (often literally) on the 24th Century
 
 Reach: Modern Day, Future
 
+# Foedus Vigilantia
+
+Face: Lamplighter Mikhail Usenko
+
+Goal: Resist the colonization of the past by time travelers, kill time-travelers, protect cultural artifacts and historical figures
+
+Reach: Modern Day, Past (Do not actually travel through time but pass messages back and forth)
+
 # Prophecy Inc.
 Face: Ariel Walker, CEO
 Goal: Sell peoples' futures as predictions (with disclaimers of 70% accuracy) and privatize telling the future
@@ -74,4 +82,3 @@ Face: Practice Handhold
 Goal: Create a safe place for Time Ghosts and other temporal anomalies, stay hidden
 
 Reach: Future, Present
-
