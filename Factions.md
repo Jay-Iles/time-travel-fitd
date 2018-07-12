@@ -1,7 +1,10 @@
 ## Faction anatomy
 *Name:* Their name.
+
 *Face:* 'Current' person in charge.
+
 *Goal:* What their general aim is.
+
 *Reach:* What time periods they can easily access. For reference: Far Past, Past, Modern Day, Future, Far Future.
 
 ## List your factions here!
@@ -57,6 +60,7 @@ Goal: To eliminate rivals in the "time travel assassination" business
 Reach: Past, Modern Day, Future
 
 # The Mapmakers
+
 Face: Brother Novum
 
 Goal: To create a singular timeline by collapsing all other parallel universes into one
@@ -118,3 +122,11 @@ Face: Vice-Provost Whit Dorrit-Page
 Goal: Actively subvert the goals of The University of the Present 
 
 Reach: Future, Past
+
+# The Union
+Face: Union President Steven Once
+
+Goal: Fix broken time machines, currently (and possibly have always been) on strike
+
+Reach: Far Future, Future, Present, Past, Distant Past
+
