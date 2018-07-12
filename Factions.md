@@ -20,3 +20,11 @@ Reach: Far Future, Far Past
 Face: Board President Weston
 Goal: Manipulate history to make a killing (often literally) on the 24th Century Stock Market
 Reach: Modern Day, Future
+
+# Foedus Vigilantia
+
+Face: Lamplighter Mikhail Usenko
+
+Goal: Resist the colonization of the past by time travelers, kill time-travelers, protect cultural artifacts and historical figures
+
+Reach: Modern Day, Past (Do not actually travel through time but pass messages back and forth)
