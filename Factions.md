@@ -37,22 +37,31 @@ Reach: Modern Day, Past (Do not actually travel through time but pass messages b
 
 # Prophecy Inc.
 Face: Ariel Walker, CEO
+
 Goal: Sell peoples' futures as predictions (with disclaimers of 70% accuracy) and privatize telling the future
+
 Reach: Modern Day, Future
 
 # The Archivist Guild
 Face: Director Klara Fowler
+
 Goal: Amass the largest collection of time-displaced artifacts in the known timestream and chart the history of time travel
+
 Reach: Past, Modern Day
 
 # Bureau of Remonstration
 Face: Violet Spring
+
 Goal: To eliminate rivals in the "time travel assassination" business
+
 Reach: Past, Modern Day, Future
 
 # The Mapmakers
+
 Face: Brother Novum
+
 Goal: To create a singular timeline by collapsing all other parallel universes into one
+
 Reach: Far Past, Past, Future, Far Future
 
 # Society for the Enlightenment of Past Humans (SEPH)
