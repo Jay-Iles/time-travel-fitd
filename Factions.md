@@ -65,7 +65,7 @@ Face: Brother Novum
 
 Goal: To create a singular timeline by collapsing all other parallel universes into one
 
-Reach: Far Past, Past, Future, Far Future
+Reach: Distant Past, Past, Future, Far Future
 
 # Society for the Enlightenment of Past Humans (SEPH)
 Face: President Yu
@@ -130,3 +130,23 @@ Goal: Fix broken time machines, currently (and possibly have always been) on str
 
 Reach: Far Future, Future, Present, Past, Distant Past
 
+# The House of Dusk
+Face: Capricious Dusk
+
+Goal: Infiltrate multiple organizations with multiple alternate versions of the same person named Dusk
+
+Reach: Future, Present, Past, 
+
+# The Neverpeople
+Face: Aurelia Smythe
+
+Goal: Unite all paradox ghosts and regain corporeal form
+
+Reach: Far Future, Future,
+
+# Paradox Eaters
+Face: The Deliverance
+
+Goal: Re-open a broken timeline and unleash the paradoxical energies from within
+
+Reach: Far Future, Past, Distant Past
