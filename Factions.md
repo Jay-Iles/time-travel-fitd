@@ -5,7 +5,9 @@
 
 *Goal:* What their general aim is.
 
-*Reach:* What time periods they can easily access. For reference: Far Past, Past, Modern Day, Future, Far Future.
+*Reach:* What time periods they can easily access. For reference: Far Past, Past, Modern Day, Future, Far Future. (0-5)
+
+*Base:* Which era they're based in
 
 ## List your factions here!
 
@@ -14,21 +16,27 @@ Face: Director Chatterjee
 
 Goal: Prevent tampering with history, uphold the Temporal Preservation Act of 4388
 
-Reach: Far Future, Future
+Reach: 4
+
+Base: Late Temporal Era
 
 # Acolytes of the Eternal Circuit
 Face: High Priest Wistful Interrogation 
 
 Goal: Make the end of time identical to the beginning, create a "big crunch" at the end of history
 
-Reach: Far Future, Far Past
+Reach: 3
+
+Base: The End of Time
 
 # Transtemporal Prosperity Chamber
 Face: Board President Weston
 
 Goal: Manipulate history to make a killing (often literally) on the 24th Century Stock Market
 
-Reach: Modern Day, Future
+Reach: 2
+
+Base: Cyberpunk Era
 
 # Foedus Vigilantia
 
@@ -36,28 +44,36 @@ Face: Lamplighter Mikhail Usenko
 
 Goal: Resist the colonization of the past by time travelers, kill time-travelers, protect cultural artifacts and historical figures
 
-Reach: Modern Day, Past (Do not actually travel through time but pass messages back and forth)
+Reach: 1
+
+Base: 18th Century
 
 # Prophecy Inc.
 Face: Ariel Walker, CEO
 
 Goal: Sell peoples' futures as predictions (with disclaimers of 70% accuracy) and privatize telling the future
 
-Reach: Modern Day, Future
+Reach: 1
+
+Base: Cyberpunk Era
 
 # The Archivist Guild
 Face: Director Klara Fowler
 
 Goal: Amass the largest collection of time-displaced artifacts in the known timestream and chart the history of time travel
 
-Reach: Past, Modern Day
+Reach: 2
+
+Base: Early Temporal Era
 
 # Bureau of Remonstration
 Face: Violet Spring
 
 Goal: To eliminate rivals in the "time travel assassination" business
 
-Reach: Past, Modern Day, Future
+Reach: 3
+
+Base: Early Temporal Era
 
 # The Mapmakers
 
@@ -72,28 +88,36 @@ Face: President Yu
 
 Goal: Use advanced technology to reduce suffering in the past, convince past people to embrace a "modern" point of view
 
-Reach: Future, Modern Day, Past
+Reach: 2
+
+Base: Late Temporal Era
 
 # Glitchhunters
 Face: Chief Purifier Fervent Sunrise
 
 Goal: Hunt down and destroy Time Ghosts and other Temporal Abominations
 
-Reach: Far Future, Future
+Reach: 2
+
+Base: Late Temporal Era
 
 # Chronoguard
 Face: Colonel Rancid Imperative
 
 Goal: Prevent universe-ending events, seal dangerous ruptures in space-time, maintain hegemony over history
 
-Reach: Far Future, Future, Present, Past, Distant Past
+Reach: 5
+
+Base: Post Temporal Era
 
 # Untimely Commune
 Face: Practice Handhold
 
 Goal: Create a safe place for Time Ghosts and other temporal anomalies, stay hidden
 
-Reach: Future, Present
+Reach: 1
+
+Base: The Rupture
 
 # Historians
 Face: Chief Historian Meabh
@@ -114,28 +138,36 @@ Face: President Canticle Button
 
 Goal: Education of the populace, enemy of time stream changes. Rival to The University of the Past and Future.
 
-Reach: Present
+Reach: 3
+
+Base: Early Temporal Era
 
 # University of the Past and Future
 Face: Vice-Provost Whit Dorrit-Page
 
 Goal: Actively subvert the goals of The University of the Present 
 
-Reach: Future, Past
+Reach: 3
+
+Base: Early Temporal Era
 
 # The Union
 Face: Union President Steven Once
 
 Goal: Fix broken time machines, currently (and possibly have always been) on strike
 
-Reach: Far Future, Future, Present, Past, Distant Past
+Reach: 4
+
+Base: Late Temporal Era
 
 # Falling Works Mining Co.
 Face: Falling Twice
 
 Goal: Mine pieces of unused time for future sale, make a profit
 
-Reach: Present, Past, Distant Past
+Reach: 3
+
+Base: Cyberpunk Era
 
 # The House of Dusk
 Face: Capricious Dusk
@@ -163,7 +195,9 @@ Face: Prime Minister William Gladstone
 
 Goal: To re-expand the British Empire from their time-sliced location of 19th century London
 
-Reach: Present, Future
+Reach: 3
+
+Base: The Rupture
 
 # The Intelligence of Plenty
 Face: Dr. Eliezer Crowley
