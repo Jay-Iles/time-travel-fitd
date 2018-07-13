@@ -158,3 +158,23 @@ Goal: Re-open a broken timeline and unleash the paradoxical energies from within
 
 Reach: Far Future, Past, Distant Past
 
+# The Empire Adrift
+Face: Prime Minister William Gladstone
+
+Goal: To re-expand the British Empire from their time-sliced location of 19th century London
+
+Reach: Present, Future
+
+# The Intelligence of Plenty
+Face: Dr. Eliezer Crowley
+
+Goal: Spread their machine intelligence throughout all time periods until there's only one mind in all of time and space
+
+Reach: Past, Modern Day, Future, Far Future
+
+# The Ship of Many Splendours
+Face: Marie
+
+Goal: Create a fleet of artists and visionaries from across all time periods
+
+Reach: Past, Future
