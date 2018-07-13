@@ -17,7 +17,3 @@ Anyone who partakes in time travel is daring at heart, flouting the normal laws 
 
 # Primal
 The simpler, the better. You're able to find useful tools in any situation, no matter how basic.
-
-# TIME GHOST
-Advanced playbook: taken after you take too many paradoxes.
-You still look normal but you feel off, like you shouldn't still exist in the space people see you in.
