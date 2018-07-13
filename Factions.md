@@ -130,6 +130,13 @@ Goal: Fix broken time machines, currently (and possibly have always been) on str
 
 Reach: Far Future, Future, Present, Past, Distant Past
 
+# Falling Works Mining Co.
+Face: Falling Twice
+
+Goal: Mine pieces of unused time for future sale, make a profit
+
+Reach: Present, Past, Distant Past
+
 # The House of Dusk
 Face: Capricious Dusk
 
@@ -150,3 +157,4 @@ Face: The Deliverance
 Goal: Re-open a broken timeline and unleash the paradoxical energies from within
 
 Reach: Far Future, Past, Distant Past
+
