@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key># The Basics.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406194</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Action Roll.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406194</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Actions &amp; Attributes.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406194</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Advancement.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Character creation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Character playbook.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Characters.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Coin and Stash.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Consequences and Harm.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Crafting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.652987</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>158</integer>
+				</dict>
+			</dict>
+			<key>Crew creation.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Crew playbook.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Downtime activities.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Downtime.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Effect.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Entanglements.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Fortune Roll.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Gathering Information.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Heat.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Magnitude.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406898</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Payoff.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Planning and engagement.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Progress clocks.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406194</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Resistance and Armor.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Rituals.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62407005</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Setting Position &amp; Effect.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406301</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Stress &amp; Trauma.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406194</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Teamwork.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>The Core System.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406194</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>The Faction Game.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>The Score.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406397</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+			<key>Vice.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553257078.62406504</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>157</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string># The Basics.md</string>
+			<string>The Core System.md</string>
+			<string>Actions &amp; Attributes.md</string>
+			<string>Stress &amp; Trauma.md</string>
+			<string>Progress clocks.md</string>
+			<string>Action Roll.md</string>
+			<string>Effect.md</string>
+			<string>Setting Position &amp; Effect.md</string>
+			<string>Consequences and Harm.md</string>
+			<string>Resistance and Armor.md</string>
+			<string>Fortune Roll.md</string>
+			<string>Gathering Information.md</string>
+			<string>Coin and Stash.md</string>
+			<string>The Faction Game.md</string>
+			<string>Advancement.md</string>
+			<string>Characters.md</string>
+			<string>Character creation.md</string>
+			<string>Character playbook.md</string>
+			<string>Crew creation.md</string>
+			<string>Crew playbook.md</string>
+			<string>The Score.md</string>
+			<string>Planning and engagement.md</string>
+			<string>Teamwork.md</string>
+			<string>Downtime.md</string>
+			<string>Payoff.md</string>
+			<string>Heat.md</string>
+			<string>Entanglements.md</string>
+			<string>Downtime activities.md</string>
+			<string>Vice.md</string>
+			<string>Magnitude.md</string>
+			<string>Rituals.md</string>
+			<string>Crafting.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+			<integer>159</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
