@@ -22,12 +22,16 @@
 			</dict>
 			<key>Heat.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>553257095.50038099</real>
 				<key>lastModification</key>
-				<real>553088833.78479505</real>
+				<real>553257095.50038099</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>13</integer>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
@@ -50,14 +54,14 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>Stress.md</key>
+			<key>Stress &amp; Trauma.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>553088829.95897996</real>
+				<real>553424019.41495705</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>11</integer>
+					<integer>16</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -65,7 +69,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Stress.md</string>
+			<string>Stress &amp; Trauma.md</string>
 		</array>
 		<array>
 			<string>Heat.md</string>
@@ -92,7 +96,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>14</integer>
+			<integer>17</integer>
 		</dict>
 	</dict>
 </dict>

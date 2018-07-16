@@ -19,7 +19,7 @@ Skills:
 
 ### Projection
 An untethered mind, able to drift to and fro across the timestream.
-*Resist with Projection* by temporarily switching minds with someone else, either now or in the past or future.
+*Resist with Projection* by borrowing willpower and confidence from your past and future selves.
 
 Skills:
 * Push: Bring someone around to your way of thinking.
