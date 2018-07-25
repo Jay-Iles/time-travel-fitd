@@ -24,3 +24,5 @@ Years of time travel experience has given you a leg up on others new to it. Once
 # State of the Art (Temp name)
 Having the newest and best equipment has its perks. When encountering any other traveler who relies on machinery for travel, on contact you can attempt to pass a rogue AI onto their machine that will temporarily take over and send them to a random time in history.
 
+# Momentum Transfer
+When you travel into a scene, you can push yourself to send someone present an equal amount forwards/backwards.
