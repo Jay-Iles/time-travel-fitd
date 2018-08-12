@@ -36,3 +36,8 @@ Chrononaut Abilities
 
 Chrononaut Items
 -Anchor: The anchor allows the user to stay tied to one point in history, unable to get knocked to other time periods, until the anchord is released. [2 load] 
+
+
+# Hologram
+
+Why put yourself in physical danger when you can time travel from the comfort of your home? As a hologram you are able to travel back without the risk of taking physical damage, but risk severe mental exhaustion when something goes wrong. You cannot interact with anything physically and are at greater risk of disturbing the timeline if people realize you are not physically there.
