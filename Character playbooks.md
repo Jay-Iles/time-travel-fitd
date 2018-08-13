@@ -15,6 +15,10 @@ There's very few problems that can't be solved with a quick dip into the timestr
 # Deviser
 Time travel is a tricky concept to conceptualize into a science but you're pretty sure you've got it down. You know the principles of time travel and how to translate it from theory to reality. Basically, you maintain time travel machines and make sure everyone's cobbled-together future tech works no matter the time period. You have a knack for cannibalizing any tech to keep your devises working wherever you are because someone has to make sure everyone can actually travel.
 
+Deviser Abilities
+-Momentum Transfer
+When you travel into a scene, you can push yourself to send someone present an equal amount forwards/backwards.
+
 # Wound
 Anyone who partakes in time travel is daring at heart, flouting the normal laws of physics to traverse all of time and space. But sometimes, one just gets too close to the sun. If you take on too much Paradox, you have the option to not succumb and instead remain in existence. You become a walking wound in the timeline, a split on the skin of reality. This allows you access to powers beyond what a normal time traveller possess but beware: the more you flout reality, the more your true nature creeps to the surface.
 
@@ -34,5 +38,6 @@ Chrononaut Items
 -Anchor: The anchor allows the user to stay tied to one point in history, unable to get knocked to other time periods, until the anchord is released. [2 load] 
 
 
-# Momentum Transfer
-When you travel into a scene, you can push yourself to send someone present an equal amount forwards/backwards.
+# Hologram
+
+Why put yourself in physical danger when you can time travel from the comfort of your home? As a hologram you are able to travel back without the risk of taking physical damage, but risk severe mental exhaustion when something goes wrong. You cannot interact with anything physically and are at greater risk of disturbing the timeline if people realize you are not physically there.
