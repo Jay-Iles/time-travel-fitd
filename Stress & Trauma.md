@@ -30,6 +30,8 @@ When you suffer paradox, you’re taken out of action. You’re trapped in your 
 * Overwhelmed: You have too much information in your mind, and take time to sort through it.
 * Cautious: You’re paranoid about causing paradox, and will be over-cautious with any time travel.
 * Paranoid: Nothing can be relied upon. Anything might have been set up before your birth to bring you down.
-* Twisted: Your biology has been twisted up by the fractured timelines within you. You’re not dying, but you’re not well.
 * Fractured: A piece of you got left behind somehwere- it's hard to focus without it.
 * Disengaged: You've got one foot in and one foot out of reality. Human concerns like suffering, empathy, and morality seem somehwat trivial in comparison.
+* Stubborn: You prefer to remember things the way you remember them happening. Not how they actually happened.
+* Forgetful: You only remember the most recent loop of a heist.
+* Lost in Time: On a 1, you teleport forward or backward in time 1 hour for the next 5 minutes before returning back to where you were.
