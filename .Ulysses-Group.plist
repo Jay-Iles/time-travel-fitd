@@ -10,6 +10,26 @@
 		<dict/>
 		<key>sheetClusters</key>
 		<dict>
+			<key>Anatomy of a Score.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557678362.82885003</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>30</integer>
+				</dict>
+			</dict>
+			<key>Character playbooks.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557262202.64227402</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>19</integer>
+				</dict>
+			</dict>
 			<key>Crew Types.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -20,18 +40,44 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
-			<key>Heat.md</key>
+			<key>Divergence (Wanted Replacement).md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>553257095.50038099</real>
 				<key>lastModification</key>
-				<real>553257095.50038099</real>
+				<real>557677603.669258</real>
 				<key>version</key>
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-					<integer>15</integer>
+					<integer>26</integer>
+				</dict>
+			</dict>
+			<key>Factions.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557262202.64228201</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>19</integer>
+				</dict>
+			</dict>
+			<key>Glossary.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557765237.291646</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
+			<key>Move ideas.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557262208.67310798</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>20</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
@@ -42,6 +88,16 @@
 				<dict>
 					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
 					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Ripples (Heat replacement).md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557677598.26968706</real>
+				<key>version</key>
+				<dict>
+					<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
+					<integer>24</integer>
 				</dict>
 			</dict>
 			<key>Skill list.md</key>
@@ -72,7 +128,7 @@
 			<string>Stress &amp; Trauma.md</string>
 		</array>
 		<array>
-			<string>Heat.md</string>
+			<string>Move ideas.md</string>
 		</array>
 		<array>
 			<string>Crew Types.md</string>
@@ -82,6 +138,24 @@
 		</array>
 		<array>
 			<string>Skill list.md</string>
+		</array>
+		<array>
+			<string>Character playbooks.md</string>
+		</array>
+		<array>
+			<string>Divergence (Wanted Replacement).md</string>
+		</array>
+		<array>
+			<string>Ripples (Heat replacement).md</string>
+		</array>
+		<array>
+			<string>Anatomy of a Score.md</string>
+		</array>
+		<array>
+			<string>Glossary.md</string>
+		</array>
+		<array>
+			<string>Factions.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -96,7 +170,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>aa5bade5e3b632e6a0505ea3121046b5ce644945bc4f135b63684aa59e90b08f</key>
-			<integer>17</integer>
+			<integer>35</integer>
 		</dict>
 	</dict>
 </dict>
