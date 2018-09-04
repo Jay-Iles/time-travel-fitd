@@ -15,4 +15,4 @@ To defend against marking Conditions, you have two options:
 * *Resist* the Condition by borrowing from your past or future self with Insight, Rampancy or Projection (see **Resistance Rolls**). A successful Resistance Roll will normally remove a Mild Condition or turn a Major Condition into a Mild one.
 * Expending a *Retcon*. These are limited-use timeline patches - by expending one and applying it to the timeline, you change the past such that you never suffered the Condition with minimal other changes. There are two sources of Retcons:
 	* Gear. An Hourglass (a disposable time loop contained in a crystal sphere) takes up 1 box. A Surrogate (a mindless clone of yourself kept in a spatial pocket to take your place) takes up 3 boxes.
-	* Personal Retcons. Certain advances (e.g. The Hopper’s *Rewind*) give you a self-generating loop attached to your personal timeline. It’s usable once per score.
+	* Innate Retcons. Certain advances (e.g. The Hopper’s *Rewind*) give you a self-generating loop attached to your personal timeline. It’s usable once per score.
