@@ -5,7 +5,7 @@ A comprehensive knowledge of the timestream, forward and back.
 Skills:
 * Archive: Remember significant details of the historical record.
 * Bootstrap: Use future knowledge to maintain, upgrade, heal and repair.
-* Weathervane: Sense who or what in your current situation is most important to the future timeline.
+* Weathervane: Sense who or what in your current situation has the most *temporal gravity*, aka the most influence on the shape of the timeline.
 * Cut-out: Hide your actions from time travellers and local authorities by taking advantage of events that were already going to happen.
 ### Rampancy
 Freedom from shackles of cause and effect, and the tyranny of the arrow of time.
@@ -13,7 +13,7 @@ Freedom from shackles of cause and effect, and the tyranny of the arrow of time.
 
 Skills:
 * Jaunt: Rapidly move through the environment.
-* Wreck: Bring objects and structures to ruin.
+* Ruin: Reduce objects and structures to fragments.
 * Slice: Move delicately and imperceptibly.
 * Terminate: Use violence on those in your way.
 
